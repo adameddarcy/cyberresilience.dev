@@ -12,11 +12,16 @@ concepts of the research and how they can be applied.
 3. The data collected during this research available under a Creative Commons Attribution 4.0 International (CC BY 4.0) License and is available under `SURVEY/DATA/`. 
 
 ## License
-This dataset is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. You are free to share and adapt the data as long as you provide appropriate attribution.
+This Cyber Resilience Top 3 Framework, is licensed under a [Creative Commons Attribution-ShareAlike 4.0 International License.](https://creativecommons.org/licenses/by-sa/4.0/)
+
+This 2024 Global Organisational Cyber Resilience Survey dataset is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. You are free to share and adapt the data as long as you provide appropriate attribution.
 
 ### Attribution
+If you use thid framework, please credit as follows: 
+"The Cyber Resilience Top 3 by Adam D'Arcy, TUD and Workday Inc., licensed under CC SA 4.0."
+
 If you use this dataset, please credit it as follows:
-"2024.BreakingBarriers_TheCyberResilienceTop3 by Adam D'Arcy, licensed under CC BY 4.0."
+"2024.BreakingBarriers_TheCyberResilienceTop3 by Adam D'Arcy, TUD and Workday Inc., licensed under CC BY 4.0."
 
 # The Cyber Resilience Top 3
 ![The Cyber Resilience Top 3](/Cyber%20Resilience%20Top%203/Cyber-Resilience-Top-3-POSTER.png)
