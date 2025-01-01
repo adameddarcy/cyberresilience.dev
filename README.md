@@ -20,5 +20,5 @@ If you use this dataset, please credit it as follows:
 "2024.BreakingBarriers_TheCyberResilienceTop3 by Adam D'Arcy, licensed under CC BY 4.0."
 
 # The Cyber Resilience Top 3
-[! The Cyber Resilience Top 3](/Cyber%20Resilience%20Top%203/Cyber-Resilience-Top-3-POSTER.png)
+![The Cyber Resilience Top 3](/Cyber%20Resilience%20Top%203/Cyber-Resilience-Top-3-POSTER.png)
 
