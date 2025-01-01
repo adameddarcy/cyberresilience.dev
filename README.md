@@ -1,5 +1,4 @@
 # cyberresilience.dev
-Data and information relating to Adam D'Arcys 2024 research study into Global Organisational Cyber Resilience.
 
 "Breaking Barriers: The Cyber Resilience Top 3 – A Global Study on Organizational Cyber Resilience Challenges in 2024" was research undetaken by Adam D'Arcy in collaboration with Workday Inc. and Technological University Dublin's School of Informatics and CyberSecurity.
 
