@@ -17,12 +17,12 @@ This Cyber Resilience Top 3 Framework, is licensed under a [Creative Commons Att
 This 2024 Global Organisational Cyber Resilience Survey dataset is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0)](https://creativecommons.org/licenses/by/4.0/) license. You are free to share and adapt the data as long as you provide appropriate attribution.
 
 ### Attribution
-If you use thid framework, please credit as follows: 
+If you use this framework, please credit as follows: 
 "The Cyber Resilience Top 3 by Adam D'Arcy, TUD and Workday Inc., licensed under CC SA 4.0."
 
 If you use this dataset, please credit it as follows:
 "2024.BreakingBarriers_TheCyberResilienceTop3 by Adam D'Arcy, TUD and Workday Inc., licensed under CC BY 4.0."
 
 # The Cyber Resilience Top 3
-![The Cyber Resilience Top 3](/Cyber%20Resilience%20Top%203/Cyber-Resilience-Top-3-POSTER.png)
+![The Cyber Resilience Top 3](/Cyber%20Resilience%20Top%203/PNG/Cyber-Resilience-Top-3-POSTER.png)
 
